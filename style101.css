@@ -1,0 +1,26 @@
+.gypsy{background-image: url(blue-background-travel-concept-to-discover-explore-and-observe-nature-hiking-adventure-travel-flat-design-template-of-gift-card-web-banner-invitation-poster-website-landscape-vector.jpg);}
+.title{text-align: center;}
+.first{text-align: center;}
+.act{text-align: center;text-decoration: solid;}
+.bottom{
+    text-align: center;
+    position: relative;
+}
+.intro{text-transform: capitalize; text-decoration: solid; font-size: 15px;}
+.fa-insta{font-size: 32px;}
+.link1{text-decoration: none;}
+.link1:hover{color: blue;
+            text-decoration: underline;
+             }
+.link2{text-decoration: none;} 
+.link2:hover {
+    color: blue;
+    text-decoration: underline;
+    } /*:hover,:active:visited*/
+    .title00{text-align: center;
+             text-rendering: optimizeSpeed;
+                }
+.final{background-color: antiquewhite;}  
+.mySlides{text-align: center; 
+    height: 10%;}              
+    .final{background-color: whitesmoke;}
